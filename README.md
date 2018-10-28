@@ -1,0 +1,2 @@
+# NameAdapter
+example of RecyclerView
